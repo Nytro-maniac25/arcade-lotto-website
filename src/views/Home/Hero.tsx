@@ -18,7 +18,7 @@ const Hero = () => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://dapp.arcadelotto.com/"
+          href="https://arcade-lotto.vercel.app/"
           className="absolute top-[60%] sm:top-[65%] left-1/2 -translate-x-1/2 w-[30%] sm:w-[20%] hover:brightness-75 transition-all duration-300"
         >
           <img
